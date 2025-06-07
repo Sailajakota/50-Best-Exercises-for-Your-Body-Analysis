@@ -1,4 +1,4 @@
-# 🏋️‍♀️ 50 Best Exercises for Your Body – Tableau Dashboard
+# 🏋️‍♀️ 50 Best Exercises for Your Body Analysis
 
 ## 📊 Project Overview  
 **"50 Best Exercises for Your Body"** is an interactive Tableau project that explores a curated dataset of 50 highly effective exercises. The analysis includes key fitness metrics such as:
